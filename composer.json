@@ -13,6 +13,10 @@
             "homepage": "http://itnovado.com"
         }
     ],
+    "require": {
+        "php": ">=5.0",
+        "xaamin/encoding": "^1.0"
+    },
     "autoload": {
         "classmap": [
             "src/FPDF/fpdf.php"
